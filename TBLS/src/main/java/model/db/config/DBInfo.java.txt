@@ -1,0 +1,9 @@
+package model.db.config;
+
+public class DBInfo2 {
+
+    public static final String URL = "jdbc:postgresql://localhost:5432/sampleDb";
+    public static final String USER = "postgres";
+    public static final String PASSWORD = "password";
+
+}
