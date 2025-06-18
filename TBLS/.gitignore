@@ -1,7 +1,29 @@
-/WebContent/WEB-INF/classes/
-/build/
-/bin/
-/.settings/
-/target/
+# コンパイル済みクラス／ビルド成果物
 *.class
+*.jar
+*.war
+*.ear
+/bin/
+/build/
+/target/
 
+# IDE関連
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+*.iws
+
+# NetBeans用
+nbproject/
+nbproject/private/
+
+# OSゴミファイル
+.DS_Store
+Thumbs.db
+
+# 機密情報（例：DBパスワード設定ファイル）
+**/DBInfo.java
+/.env
+credentials.json
