@@ -24,6 +24,6 @@ nbproject/private/
 Thumbs.db
 
 # 機密情報（例：DBパスワード設定ファイル）
-**/DBInfo.java
+*/DBInfo.java
 /.env
 credentials.json
