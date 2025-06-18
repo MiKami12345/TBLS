@@ -1,0 +1,6 @@
+/WebContent/WEB-INF/classes/
+/build/
+/bin/
+/.settings/
+/target/
+*.class
